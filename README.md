@@ -1,2 +1,2 @@
 This is my First Repo.
-now we can learn git easly.
+Now we can learn git easly.
